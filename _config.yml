@@ -2,7 +2,7 @@
 title: Saamin Leather
 subtitle: Original taste of the Persian design
 email: Saamin.information@gmail.com
-description: Officuial webpage for the SaaminLeathe<br /> group.
+description: Official webpage for the SaaminLeathe<br /> group.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: SaaminLeather
@@ -11,7 +11,7 @@ city: Tehran
 state: Tehran
 zip_code: 
 country: Iran
-phone: (
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
